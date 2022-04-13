@@ -1,5 +1,5 @@
 python run_qa.py \
-  --model_name_or_path bert-base-uncased \
+  --model_name_or_path roberta-base \
   --dataset_name squad \
   --do_train \
   --do_eval \
@@ -8,4 +8,4 @@ python run_qa.py \
   --num_train_epochs 2 \
   --max_seq_length 384 \
   --doc_stride 128 \
-  --output_dir ./debug_squad/
+  --output_dir ./squad_roberta_base
