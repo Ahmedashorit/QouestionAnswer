@@ -7,7 +7,7 @@ python run_qa_advanced.py \
   --per_device_eval_batch_size 12 \
   --fp16\
   --learning_rate 3e-5 \
-  --num_train_epochs 2 \
+  --num_train_epochs 1 \
   --max_seq_length 384 \
   --doc_stride 128 \
   --output_dir ./squad_bert_base_uncased_advanced
