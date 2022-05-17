@@ -15,4 +15,4 @@ Advanced model architecures
 # run_qa_advanced.py	
 main program, create dataset (tokenization and encode), create dataloader, load pretrained model, train advanced model, evaluate advanced model		
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/Ahmedashorit/Question-Answer/blob/main/Advanced-model.png)
