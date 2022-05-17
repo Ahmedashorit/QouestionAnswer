@@ -16,5 +16,3 @@ Advanced model architecures
 main program, create dataset (tokenization and encode), create dataloader, load pretrained model, train advanced model, evaluate advanced model		
 
 ![This is an image](https://github.com/Ahmedashorit/Question-Answer/blob/main/Advanced-model.png)
-
-![This is an image](https://github.com/Ahmedashorit/Question-Answer/blob/main/bert_squadv1_ad.ipynb)
